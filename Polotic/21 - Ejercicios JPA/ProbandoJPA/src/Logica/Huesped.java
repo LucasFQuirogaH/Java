@@ -4,6 +4,8 @@ import java.io.Serializable;
 import java.util.Date;
 import javax.persistence.Basic;
 import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
@@ -12,13 +14,14 @@ import javax.persistence.TemporalType;
  *
  * @author lucquifer
  */
-
 @Entity
-public class Alumno implements Serializable {
+public class Huesped implements Serializable {
 
     //Atributos
+    
     @Id
-    private String dni;
+    @GeneratedValue(strategy = GenerationType.AUTO)
+    private int id;
     
     @Basic
     private String nombre;
@@ -28,23 +31,23 @@ public class Alumno implements Serializable {
     private Date fechaNac;
 
     // Constructores
-    public Alumno() {
+    public Huesped() {
     }
 
-    public Alumno(String dni, String nombre, String apellido, Date fechaNac) {
-        this.dni = dni;
+    public Huesped(int id, String nombre, String apellido, Date fechaNac) {
+        this.id = id;
         this.nombre = nombre;
         this.apellido = apellido;
         this.fechaNac = fechaNac;
     }
 
     //Getters & Setters
-    public String getDni() {
-        return dni;
+    public int getId() {
+        return id;
     }
 
-    public void setDni(String dni) {
-        this.dni = dni;
+    public void setId(int id) {
+        this.id = id;
     }
 
     public String getNombre() {
