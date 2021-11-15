@@ -1,0 +1,6 @@
+Para la base de datos..
+Usuario: todocode
+pass: 12345
+
+Para la base de datos..
+peluqueriacanina
