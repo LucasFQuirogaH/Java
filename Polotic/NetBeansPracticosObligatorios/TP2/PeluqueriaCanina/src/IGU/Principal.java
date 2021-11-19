@@ -6,6 +6,7 @@
 package IGU;
 
 import Logica.Controladora;
+import javax.swing.JOptionPane;
 
 /**
  *
@@ -266,9 +267,10 @@ Controladora control;
 
         //
         control.altaPerro(numeroClientePantalla , nombrePantalla , razaPantalla , colorPantalla , alergicoPantalla , atencionPantalla , duenioPantalla , celularPantalla , observacionesPantalla);
-
         // Fin boton guardar  ----------------------------------------------------------------
         
+        // Mensaje al operador
+        JOptionPane.showMessageDialog(atencion, "Perrito agregado correctamente!", "Mensaje de la Base de datos", JOptionPane.INFORMATION_MESSAGE);
     }//GEN-LAST:event_btnGuardarActionPerformed
 
     private void btnLimpiarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnLimpiarActionPerformed
