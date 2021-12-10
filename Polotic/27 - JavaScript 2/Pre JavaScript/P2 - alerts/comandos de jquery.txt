@@ -1,0 +1,3 @@
+$('p') //--> Para los parrafos
+$('#encabezado') //--> Para los id
+$('.titulosprincipales') //--> Para las clases
