@@ -1,0 +1,26 @@
+
+
+https://www.youtube.com/watch?v=a5GO_SkM_Bk&ab_channel=TrayectosSiliconMisiones
+
+
+
+https://www.youtube.com/watch?v=a5GO_SkM_Bk&ab_channel=TrayectosSiliconMisiones
+
+
+
+
+SUPER IMPORTANTE - VIDEOS PARA ADELANTAR TEMAS PARA PODER SEGUIR CON EL TP 📢
+
+🙋🏻‍♀️ Chicos esta info que les paso es en base a que ayer fue feriado y para que no se atrasen o tengan que esperar haaasta el lunes para ver estos temas... Así que les adelanto estos videos de la comisión anterior (les paso de qué minuto a cual mirar así no pierden tiempo buscando):
+
+1⃣ Cómo visualizar elementos que traemos de la base de datos en una tabla en java (a partir de minuto 44:54 hasta 1:15:31 aprox) :
+
+https://youtu.be/t0k7PTggVQc?t=2694
+
+2⃣ ¿Cómo hacer un Login? + Validaciones de acceso (a partir de minuto 14:58 hasta minuto 50:00 aprox) Se utiliza una plantilla para login, pueden buscar en google "plantilla para login" y encuentran varias : https://youtu.be/MBlLvVpv6sU?t=899
+
+3⃣ ¿Cómo hacer el eliminado? (a partir de minuto 21:58 hasta: 46:08 aprox) : https://youtu.be/oRLF2edX_gk?t=1318
+
+4⃣ ¿Cómo hacer la modificación? (A partir de minuto 46:10 hasta 1:04:30 aprox): https://youtu.be/oRLF2edX_gk?t=2770
+
+Todos estos videos incluyen tmb el tema "cómo pasar atributos entre JSPs"... Con esto chicos tienen TODOS LOS TEMAS que faltan del curso como para ya terminar su TP quienes quieren ir ganando tiempo.
